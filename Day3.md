@@ -3,6 +3,7 @@
 - #### end: 23:10
 ### Android 组件化
 ##### 1.通过视频学习组件化
+- [学习链接](https://space.bilibili.com/162176927?from=search)
 ##### 2.组件化的好处
 ##### 3.ARoute原理学习（未学完）
 ###总结：
