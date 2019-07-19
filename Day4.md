@@ -10,6 +10,6 @@
                      maven { url 'https://maven.aliyun.com/repository/google' }
 2. Failed to resolve cn.bmob.android:bmob-sdk:3.7.3.
     - 解决方案：添加：maven { url "https://raw.github.com/bmob/bmob-android-sdk/master" } (固定玩法)
-###总结：
+### 总结：
 - 从一个点发散出去，可以学到更多东西，说不定还有意想不到的收获
 
